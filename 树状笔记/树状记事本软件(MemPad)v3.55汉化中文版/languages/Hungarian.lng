@@ -1,0 +1,231 @@
+﻿; ++ Main Menu ++
+
+01=Új ablak
+02='$' fájlként
+03=más fájlcsoportból...
+167=Nyelv
+05=Megnyitás (külső)...
+100=Gyors elérés...
+06=Kilépés
+
+07=Fájl
+08=Megnyit...
+09=Előző
+10=Új
+11=Csak olvasható?
+12=Titkosítás?
+13=Mentés
+14=Újratö&ltés
+15=Mentés &visszatöltése
+
+16=Oldal
+17=Keresés indítás
+18=Következőt keres (le)
+19=Következőt keres (fel)
+20=Oldalmemória
+21=Ugrás vissza
+22=Ugrás előre
+23=Kedvencek
+24=Oldal hozzárendelése
+25=Letiltva
+26=Oldal zárolása?
+27=Belépési napló
+28=Csomópont háttér
+29=Szín kiválasztása
+30=Szín törlése
+
+31=Exportálás
+32=egyetlen oldalt
+33=csomópontot (szerkezetet)
+34=mindent
+35=Oldal újraimportálása
+
+36=Beállítások
+37=Betű
+38=Szöveg
+39=Index
+40=Háttér
+41=Szöveg (alapértelmezett)
+42=Index
+43=Mindkettő
+44=Eszköztár?
+45=Indexpanel?  [Ctrl+Win]
+46=Gyorsbillentyű...
+47=Minimalizása &tálcára?
+48=Kilépés ESC-re?
+49=Minimalizálás ESC-re?
+50=Mindig felül maradjon az ablak?
+51=Oldal zárolása a&lapértelmezetten?
+52=Automatikus mentés? (minden $ percben)
+53=Nincs mentés?
+
+54=Súgó
+55=Info
+04=Adatmappa
+171=Programmappa
+;56=Példa
+
+; ++ Index Menu ++
+
+57=Hozzáadás következőként
+58=Beillesztés elé
+59=Hozzáadás gyermekként
+60=Törlés
+61=Kivág (mozgatáshoz)
+62=Átnevezés
+63=Oldal útvonala
+64=Lefelé mozgatás
+65=Felfelé mozgatás
+66=Szülő szintre
+67=Gyermek szintre
+68=Összes összezárása
+69=Összes kinyitása
+168=Csomópontok rendezése (testvérek)
+169=növekvő
+170=csökkenő
+
+; ++ Text Menu ++
+
+70=Kivág
+71=Másol
+72=Beilleszt
+73=Mind kijelöl
+74=Nagybetű
+75=Kisbetű
+76=Visszavon
+77=Újra
+78=Dátum,Idő
+79=Oldal link
+80=Fájl link...
+
+; ++ New button (4 alternatives, semicolon separated)
+
+81=Új;Beilleszt;Fájlból;Import
+
+; ++ New/insert mode menu ++
+
+82=Új oldal
+83=Beilleszt:
+84=Oldal egy &szövegfájlból
+85=Oldal vagy csomópont importálása
+
+; ++ Button ToolTips ++
+
+86=Beillesztési mód/forrás kiválasztása
+87=Következőként hozzáadás (jobb kattintás: elé)
+88=Gyermekként hozzáadás
+89=Oldal/csomópont kivágása (beillesztés/hozzáadás máshová)
+90=$ mozgatása: cél kiválasztása, aztán beillesztés/hozzáadás
+91=Oldal/csomópont törlése
+92=Mozgatás felfelé
+93=Mozgatás lefelé
+94=A szülő szintre mint következő csomópont
+95=A megelőző csomópont gyermek szintjére
+96=Nem használt csomópontok összecsukása (jobb kattintás: összes kibontása)
+97=Keresés indítása
+98=Keresés lefelé (jobb kattintás: felfelé)
+99=Sortörés
+
+; ++ Generic dialog box ++
+
+101=Hiba
+102=Figyelem
+103=Info
+104=Ok
+105=Mégsem
+
+; ++ Window: File group request ++
+
+106=MemPad fájlcsoport (típus):
+107=Nem használt INI fájlok eltávolítása
+
+; ++ Window: Encryption ++
+
+108=kompatibilis
+109=Jelszó:
+110=Ismét:
+111=A titkosítás eredménytelen!
+
+; ++ Dialog: Encryption, read/write ++
+
+112=Nincs elég memória
+113=visszafejtés eredménytelen
+114=Megjegyzés: Ha a fájl nem titkosított,
+115=lehet, hogy megpróbálta érvénytelen formátumú fájlt betölteni.
+116=Ez nem MemPad fájl
+117=A titkosítás eredménytelen!
+118=
+
+; ++ Window Export ++
+
+119=Exportálás ide:
+172=Csomópont mint fájlnév
+120=Címdíszítés (Dollárjel mint címjelölő)
+121=Szint szimbólum (többszörös)
+122=Fájl megnyitása
+123=kiterjesztés szerint
+124=programmal:
+
+; ++ Message: Diary ++
+
+125=Először csomópont készítés (oldal)
+
+; ++ Window: Search ++
+
+126=Maradjon nyitva
+127=Szövegben
+128=Indexben
+129=Betűméret egyezés
+130=Teljes szó
+131=Keres:
+132=Kitörlés
+133=Elejétől
+134=Csomópontban
+135=Le
+136=Fel
+137=Cserél
+138=Ezzel:
+139=Következő automatikus keresése
+140=Nincs (több) egyezés
+
+; ++ Dialog: Files ++
+
+141=Fájl mentése
+142=Fájlnév:
+143=Fájl már létezik! Felülírja?
+144=Fájl nem hozható létre
+145=Fájl nem írható
+146=
+147=Folytatás mentés nélkül?
+148=Fájl megnyitása
+149=Módosítás mentése?
+150=Program
+
+; ++ Dialog: Backup ++
+
+151=Nem lehet menteni
+152=Ez nem mentésfájl
+153=Ez visszaállítja az utolsó mentést
+154=Nem lehet visszaállítani a mentésből
+155=Mentés törlése szintén?
+
+; ++ Dialog: Reload ++
+
+156=Ez újratölti az összes lapot a fájlból
+157=Nem lehet újratölteni a fájlt
+
+; ++ Page Handling ++
+
+158=kattintson a [+] gombra (Alt+Insert) az oldal létrehozásához
+159=Fájl link létrehozása
+160=Csomópont törlése minden gyermek oldallal?
+161=Törlés ezt az oldalt?
+162=Szöveges fájl beszúrása
+163=Nem tudja betölteni az oldalt
+
+; ++ Window: Hotkey ++
+
+164=Billentyűkombináció MemPad aktiválásához/minimalizálásához
+165=Backspace tiltott billentyűkombináció
+166=Nem elfogadott
+

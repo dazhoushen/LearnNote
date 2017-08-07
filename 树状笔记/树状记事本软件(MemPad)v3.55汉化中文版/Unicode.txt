@@ -1,0 +1,22 @@
+MemPad Unicode - Note if you update from a MemPad version older than 3.50
+
+Unicode allows different languages, like English, Russian and Chinese in the same text.
+
+Starting with version 3.50 MemPad files are written with the Unicode encoding UTF-8.
+These files cannot be opened with older MemPad versions!
+
+Old MemPad files can be opened, but will be written as UTF-8.
+
+Important:
+Encrypted files of old MemPad versions can only be read if the password consists of ASCII letters. Please save these files without encryption before using them with MemPad 3.50.
+
+Language files (see Folder "Languages"):
+
+Language files have been converted to UTF-8 (except "Western languages").
+Corrections or improvements are always welcome. 
+
+
+17 Aug 2012
+mailto:horst.schaeffer@gmx.net
+
+ 

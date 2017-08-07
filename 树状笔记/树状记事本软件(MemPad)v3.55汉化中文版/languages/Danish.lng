@@ -1,0 +1,232 @@
+﻿. dansk
+
+; ++ Main Menu ++
+
+01=Nyt vindue
+02=for '$'-filer
+03=for anden filgruppe..
+167=Sprog
+05=Åben (ekstern)..
+100=Hurtigstart..
+06=Afslut
+
+07=Fil
+08=Åben..
+09=Forrige
+10=Ny
+11=Skrivebeskyttet?
+12=Krypter?
+13=Gem
+14=&Genindlæs
+15=Gendan &backup
+
+16=Side
+17=Søg begynd
+18=Søg næste (ned)
+19=Søg næste (op)
+20=Sidehukommelse
+21=Tilbage
+22=Frem
+23=Favoritter
+24=Tildel denne side
+25=Deaktiver
+26=Lås side?
+27=Dagbogsindførsel
+28=Baggrundsfarve for side
+29=Vælg farve
+30=Tilbagefør farve
+
+31=Eksporter
+32=En side
+33=Side inkl. undersider
+34=Alle
+35=Reimporter side
+
+36=Indstillinger
+37=Skrifttype
+38=Tekst
+39=Indeksspalte
+40=Baggrund
+41=Tekst (standard)
+42=Indeksspalte
+43=Begge
+44=Værktøjslinie?
+45=Indeks?  [Ctrl+Win]
+46=Hotkey..
+47=Minimer til &Meddelelsesområdet?
+48=Afslut med ESC?
+49=Minimer med ESC?
+50=Behold vindue øverst?
+51=Sider &låste som standard?
+52=Auto-gem? (hvert $ min)
+53=Ingen sikkerhedskopier?
+
+54=Hjælp
+55=Info
+04=Data mappe
+171=Program mappe
+;56=Programvindue
+
+; ++ Index Menu ++
+
+57=Tilføj næste
+58=Tilføj før
+59=Tilføj som underpunkt
+60=Slet
+61=Klip (for at flytte)
+62=Skift navn
+63=Hent sidesti
+64=Flyt ned
+65=Flyt op
+66=Et niveau op
+67=Et niveau ned
+68=Sammenfold alle
+69=Udvid alle
+168=Sorter sider på samme niveau
+169=stigende
+170=fallende
+
+; ++ Text Menu ++
+
+70=Klip
+71=Kopier
+72=Sæt ind
+73=Marker alt
+74=Store bogstaver
+75=Små bogstaver
+76=Fortryd
+77=Fortryd fortryd
+78=Dato,Klokkeslæt
+79=Side-link
+80=Fil-link..
+
+; ++ New button (4 alternatives, semicolon separated)
+
+81=Ny;Sæt ind;Fra fil;Importer
+
+; ++ New/insert mode menu ++ 
+
+82=Nyt side
+83=Sæt ind:
+84=Side fra &tekstfil
+85=Importer side
+
+; ++ Button ToolTips ++
+
+86=Vælg indsæt-modus/kilde
+87=Tilføj som næste (højreklik: før)
+88=Tilføj som underside
+89=Klip side (for indsættelse andetsteds)
+90=For at flytte $: Vælg mål, sæt derefter ind
+91=Slet side/niveau
+92=Flyt op
+93=Flyt ned
+94=Til højere niveau som næste punkt
+95=Til underpunkt i foregående niveau
+96=Sammenfold ubenyttede sider (højreklik - udvid alle)
+97=Søg og find
+98=Find næste ned (højreklik: op)
+99=Tekstombrydning
+
+; ++ Generic dialog box ++
+
+101=Fejl
+102=Advarsel
+103=Info
+104=Ok
+105=Avbryd
+
+; ++ Window: File group request ++
+
+106=MemPad filgruppe (type):
+107=Fjern ubenyttede INI-filer
+
+; ++ Window: Encryption ++
+
+108=kompatibel
+109=Password:
+110=Gentag:
+111=Kryptering deaktiveret
+
+; ++ Dialog: Encryption, read/write ++
+
+112=Ikke hukommelse nok
+113=Kryptering fejlet
+114=NB: hvis filen ikke er krypteret,
+115=har du måske forsøgt at indlæse et ugyldigt filformat.
+116=Dette er ikke en gyldig MemPad-fil
+117=Kryptering fejlet
+118=
+
+; ++ Window Export ++
+
+119=Eksporter til:
+120=Titel-dekoration (Dollar som titel-pladsholder)
+121=Niveausymbol (vælg)
+122=Åben filen
+123=efter filtype
+124=med program:
+
+; ++ Message: Diary ++
+
+125=Opret først en side
+
+; ++ Window: Search ++
+
+126=Hold søgevindue åben
+127=I tekst
+128=I indeks-spalte
+129=Skeln mellem store/små bogstaver
+130=Hele ord
+131=Find:
+132=Reset
+133=Fra toppen 
+134=På denne side
+135=Ned
+136=Op
+137=Erstat
+138=Med:
+139=Auto-sø næste
+140=Ikke fundet (mere)
+
+; ++ Dialog: Files ++
+
+141=Gem fil
+142=Filnavn:
+143=Fil eksisterer! Overskriv?
+144=Kan ikke oprette fil
+145=Kan ikke skrive til fil
+146=
+147=Fortsæt uden at gemme?
+148=Åben fil
+149=Gem ændringer?
+150=Program
+
+; ++ Dialog: Backup ++
+
+151=Kan ikke lave sikkerhedskopi
+152=Der er ingen backup-fil
+153=Dette vil genskabe sidste sikkerhedskopi
+154=Kan ikke genskabe sikkerhedskopi
+155=Slet også sikkerhedskopien?
+
+; ++ Dialog: Reload ++
+
+156=Dette vil genindlæse alle sider fra filen
+157=Kan ikke genindlæse fil
+
+; ++ Page Handling ++
+
+158=Klik på [+] knap (Alt+Insert) for at oprette en side
+159=Opret fil-link
+160=Slet denne side med alle undersider?
+161=Slet denne side?
+162=Indsæt en tekstfil
+163=Kan ikke indlæse side
+
+; ++ Window: Hotkey ++
+
+164=Tastekombination til at aktivere/minimere MemPad
+165=Backspace deaktiverer hotkey
+166=Ikke godkedt
+

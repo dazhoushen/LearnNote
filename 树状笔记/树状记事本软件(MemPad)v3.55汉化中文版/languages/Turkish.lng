@@ -1,0 +1,227 @@
+﻿; ++ Main Menu ++
+
+01=Yeni pencere
+02='$' için
+03=başka dosya grubu için..
+167=Lisan
+05=Aç (harici)..
+100=Hızlı başlat..
+06=Çık
+
+07=Dosya
+08=Aç..
+09=Önceki
+10=Yeni
+11=Yazma koruma?
+12=Şifrele?
+13=Kaydet
+14=Tekrar&yükle
+15=Geri yükle &Yedekle
+
+16=Sayfa
+17=Bul
+18=Sonrakini bul (yukarı)
+19=Öncekini bul (aşağı)
+20=Sayfa hafızası
+21=Geri atla
+22=İleri atla.
+23=Favoriler
+24=Bu sayfayı ata
+25=İptal
+26=Sayfayı kilitle?
+27=Günce girdisi
+28=Bölüm arkaplanı
+29=Renk seç
+30=Rengi sıfırla
+
+31=İhraç et
+32=Tek sayfa
+33=Bölüm (yapısı)
+34=Hepsi
+35=Sayfayı tekrar ihraç et
+
+36=Ayarlar
+37=Harf
+38=Yazı
+39=İndeks
+40=Arkaplan
+41=Yazı (Varsayılan)
+42=İndeks
+43=Her ikisi
+44=Araç çubuğu görünsün?
+45=İçindekiler ağacı görünsün [Ctrl+Win]
+46=Simgeye küçültemek için kısayol tuşu..
+47=Simge durumuna küçült &Sistem Tepsisi?
+48=ESC tuşuna basarak programdan çık?
+49=ESC tuşuna basarak ile simge durumuna küçült?
+50=Pencereyi sabitle?
+51=Sayfalar & Varsayılan?
+52=Otomatik kaydet? (her $ dakikada bir)
+53=Yedekleme yok?
+
+54=Yardım
+55=Bilgi
+04=Veri klasörü
+171=Program klasörü
+;56=Durum
+
+; ++ Index Menu ++
+
+57=Sonrasına ekle
+58=Öncesine ekle
+59=Alt bölüm olarak ekle
+60=Sil
+61=Kes (taşımak için)
+62=Yeniden adlandır
+63=Sayfa yolunu al
+64=Aşağı taşı
+65=Yukarı taşı
+66=Bir üst seviyeye
+67=Bir alt seviyeye
+68=Hepsini daral
+69=Hepsini genişlet
+168=Bölümleri sırala (alt bölümleri)
+169=Artan
+170=Azalan
+
+; ++ Text Menu ++
+
+70=Kes
+71=Kopyala
+72=Yapıştır
+73=Hepsini işaretle
+74=Büyük harf
+75=Küçük harf
+76=Telafi et
+77=Yeniden yap
+78=Tarih,Zaman
+79=Sayfa linki
+80=Dosya linki..
+
+; ++ New button (4 alternatives, semicolon separated)
+
+81=Yeni;Yapıştır;Dosyadan;İthal et
+
+; ++ New/insert mode menu ++ 
+
+82=Yeni sayfa
+83=Yapıştır:
+84=Sayfa &yazı dosyasından
+85=Sayfa veya bölüm ithal et
+
+; ++ Button ToolTips ++
+
+86=Giriş tipini seç/kaynak
+87=Sonraki olarak ekle (sağ tık: önce)
+88=Alt bölüm olarak
+89=Sayfayı kes/bölüm (eklemek için/başka yere ekle)
+90=Taşımak için $: hedef seç, sonra ekle/ekle
+91=Sayfayı sil/bölüm
+92=Yukarı taşı
+93=Aşağı taşı
+94=Bir üst seviyeye sonraki bölüm olarak
+95=Bir alt seviyeye önceki bölüm olarak
+96=Kullanılmayan bölümleri daralt (sağ tıkla hepsini genişlet)
+97=Aramaya başla
+98=Aşağıya doğru ara (sağ ile yukarı)
+99=Sözcük kaydır
+
+; ++ Generic dialog box ++
+
+101=Hata
+102=Uyarı
+103=Bilgi
+104=Tamam
+105=İptal
+
+; ++ Window: File group request ++
+
+106=MemPad dosya grubu (tip):
+107=Kullanılmayan INI dosyalarını sil
+
+; ++ Window: Encryption ++
+
+108=uyumlu
+109=Şifre:
+110=Tekrar:
+111=şifreleme iptal
+
+; ++ Dialog: Encryption, read/write ++
+
+112=Yeterli bellek yok
+113=şifre çözme başarısız
+114=Dikkat: Dosya şifrelenemediyse,
+115=Yanlış bir dosya türü yüklemeye çalışıyorsunuz.
+116=Bu geçerli bir MemPad dosyası değil
+117=Şifre çözme başarısız
+118=
+
+; ++ Window Export ++
+
+119=İhraç et:
+120=Başlık dekorasyonu (Başlık simgesi Dolar işareti)
+121=Seviye simgesi (çoklu)
+122=Dosyayı aç
+123=uzantıya göre
+124=program ile
+
+; ++ Message: Diary ++
+
+125=Önce bir bölüm yaratın (sayfa)
+
+; ++ Window: Search ++
+
+126=Açık tut
+127=Yazıda
+128=İndeksde
+129=Büyük-küçük harf duyarlı
+130=Tüm cümle
+131=Bul:
+132=Sıfırla
+133=En üstten
+134=Bölüm içinde
+135=Aşağı
+136=Yukarı
+137=Değiştir
+138=ile:
+139=Sonrakini otomatik bul
+140=Yok (daha fazla) eşleşen
+
+; ++ Dialog: Files ++
+
+141=Dosyayı kaydet
+142=Dosya adı:
+143=Dosya mevcut! Üzerine yaz?
+144=Dosya oluşturulamadı
+145=Dosya yazılamıyor
+146=
+147=Kaydetmeden devam?
+148=Dosya aç
+149=Değişiklikleri kaydet?
+150=Program
+
+; ++ Dialog: Backup ++
+
+151=Yedeklenemiyor
+152=Yedeklenmiş dosya yok
+153=Bu son yedeklemeyi geri yüklenecek
+154=Yedekleme geri yüklenemedi
+155=yedekleme de silinsin mi?
+
+; ++ Dialog: Reload ++
+
+156=Bu tüm sayfaları dosyadan geri yükleyecek
+157=Dosya yeniden yüklenemedi
+
+; ++ Page Handling ++
+
+158=Yeni bir sayfa oluşturmak için [+] düğmesine tıkla (ya da Alt+Insert)
+159=Dosya linki oluştur
+160=Bu bölümü tüm alt sayfalarıyla sil?
+161=Bu sayfayı sil?
+162=Bir yazı dosyası ekle
+163=Sayfa yüklenemiyor
+
+164=Simge durumuna küçültüp geri açmak için tuş kombinasyonu
+165=Backspace kısayolları iptal eder
+166=Kabul edilmedi

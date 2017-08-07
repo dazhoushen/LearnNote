@@ -1,0 +1,233 @@
+﻿;
+; MemPad 3.40 Polish Language File ver. 0.90
+; Translated from English by Jacek Żebrowski
+;
+
+; ++ Main Menu ++
+
+01=Nowe okno
+02=Dla '$' plików
+03=Dla innej grupy plików 
+04=Folder danych
+167=Język
+05=Otwórz (zewn.)
+100=Szybki start 
+06=Wyjcie 
+
+07=Plik
+08=Otwórz...
+09=Ostatni
+10=Nowy
+11=Tylko do odczytu?
+12=Zaszyfruj
+13=Zapisz
+14=Załaduj powtórnie
+15=Odzyskaj z archiwum
+
+16=Strona
+17=Poczštek wyszukiwania
+18=Szukaj następnego (w dół)
+19=Szukaj następnego (w górę)
+20=Strona pamięci
+21=Skocz w tył
+22=Skocz w przód
+23=Ulubione
+24=Przyporzšdkuj stronę
+25=Wyłšcz
+26=Zablokuj stronę?
+27=Start terminarza
+28=Tło dla węzłow
+29=Wybierz kolor
+30=Skasuj color
+
+31=Eksport
+32=Pojedyńcza strona
+33=Węzeł 
+34=Wszystkie
+35=Powtórny import
+
+36=Ustawienia
+37=Czcionka
+38=Tekst
+39=Drzewo
+40=Tło
+41=Tło w obszarze tekstu
+42=Tło w obszarze drzewa
+43=Tło całoci
+44=Pasek narzędzi?
+45=Drzewo? [Ctrl+Win]
+46=Klawisz skrótu...
+47=Minimalizuj do zasobnika?
+48=Wyjcie przez ESC?
+49=Minializuj przez ESC?
+50=Okno zawsze na wierzchu?
+51=Strona zablokowana domylnie?
+52=Zapisz samoczynnie? (co $ min)
+53=Bez kopii bezpieczeństwa?
+
+54=Pomoc
+55=Informacje o programie
+56=* * *
+
+; ++ Index Menu ++
+
+57=Dodaj jako następny
+58=Dodaj jako poprzedni
+59=Dodaj jako podrzędny
+60=Usuń
+61=Wytnij 
+62=Zmień nazwę
+63=cieżka do strony
+64=Przesuń w dół
+65=Przesuń w góre
+66=Poziom w górę
+67=Poziom w dół
+68=Zwiń wszystkie
+69=Rozwiń wszystkie
+168=Sortuj węzły
+169=rosnšco
+170=malejšco
+
+; ++ Text Menu ++
+
+70=Wytnij
+71=Kopiuj 
+72=Wklej
+73=Zaznacz wszystkie
+74=Duże litery
+75=Małe litery
+76=Cofnij
+77=Przywróć
+78=Data, czas
+79=Odsyłacz do strony
+80=Odsyłacz do pliku
+
+; ++ New button (4 alternatives, semicolon separated)
+
+81=Nowy;Wklej;Z pliku;Import
+
+; ++ New/insert mode menu ++ 
+
+82=Nowa strona
+83=Wklej:
+84=Strona a plik tekstowy
+85=Importuj stronę lub węzeł
+
+; ++ Button ToolTips ++
+
+86=Wybierz sposób wstawiania
+87=Dodaj jako następny 
+88=Dodaj jako podrzędny
+89=Wytnij stronę/węzeł aby wstawić gdzie indziej
+90=przesuń $: wybierz docelowy, póniej wstaw
+91=Usuń stronę/węzeł 
+92=Przesuń w górę
+93=Przesuń w dół
+94=Będzie następny na poziomie wyżej  
+95=Będzie podrzędny dla poprzedniego
+96=Zwiń węzły (prawy klik aby rozwinšć) 
+97=Start wyszukiwania
+98=Poszukuj następnego w dół
+99=Zawijanie wyrazów
+
+; ++ Generic dialog box ++
+
+101=Błšd
+102=Ostrzeżenie
+103=Informacja
+104=OK
+105=Zrezygnuj
+
+; ++ Window: File group request ++
+
+106=MemPad groupa plików (typ):
+107=usuń nieużywane pliki INI
+
+; ++ Window: Encryption ++
+
+108=Zgodny
+109=Hasło:
+110=Powtórz:
+111=Szyfrowanie wyłšczone
+
+; ++ Dialog: Encryption, read/write ++
+
+112=Za mało pamięci
+113=Odszyfowanie nieudane
+114=Uwaga: Jeżeli plik nie jest zaszyfrowany, to
+115=Próba zaladowanie niewłaciwego formatu pliku.
+116=To nie jest plik MemPada
+117=Zaszyfrowanie nieudane
+118=
+
+; ++ Window Export ++
+
+119=Eksportuj do:
+120=Ozdoba tytułu (Dollar)
+121=Symbol poziomu (wielokrotny)
+122=Otwórz plik
+123=przez rozszerzenie
+124=Z programem:
+
+; ++ Message: Diary ++
+
+125=Najpierw utwórz stronę
+
+; ++ Window: Search ++
+
+126=Trzymaj otwarte
+127=W tekcie
+128=W drzewie
+129=Uwzględnij wielkoć liter
+130=Sprawdzaj całe słowa
+131=Znajd:
+132=Resetuj
+133=Od góry 
+134=W węzłach
+135=W dół
+136=W górę
+137=Zastšp
+138=przez:
+139=Szukaj dalej
+140=Nie znaleziono
+
+; ++ Dialog: Files ++
+
+141=Zapisz plik
+142=Nazwa pliku:
+143=Plik istnieje! Nadpisać?
+144=Nie mogę utworzyć pliku
+145=Nie mogę pisać do pliku 
+146=
+147=Kontynuowac bez zapisania?
+148=Otwórz plik
+149=Zachować zmiany?
+150=Program
+
+; ++ Dialog: Backup ++
+
+151=Nie mogę zrobić backupu
+152=Nie ma pliku backupu
+153=Będzie odtworzony ostatni backup
+154=Nie mogę odtworzyć backupu
+155=Czy usunšć plik backupu?
+
+; ++ Dialog: Reload ++
+
+156=Będš odwieżone wszystkie strony z pliku
+157=Nie mogę odwieżyć pliku
+
+; ++ Page Handling ++
+
+158=Kliknij [+] przycisk [Alt+Insert] aby utworzyć stronę
+159=Utwórz odnonik do pliku 
+160=Usuń ten węzeł z podrzędnymi?
+161=Usuń tę stronę?
+162=Wstaw plik tekstowy
+163=Nie mogę załadować strony
+
+; ++ Window: Hotkey ++
+
+164=Kombinacja klawiszy do przywołania/minimalizacji MemPada
+165=Cofanie kasuje skrót
+166=Nie akceptowane

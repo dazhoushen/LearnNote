@@ -1,0 +1,231 @@
+﻿; ++ Main Menu ++
+
+01=Nouvelle fenêtre
+02=pour les fichiers '$'
+03=pour d'autres extensions..
+167=Langue
+05=Ouvrir (externe)...
+100=Lancement rapide...
+06=Quitter
+
+07=Fichier
+08=Ouvrir...
+09=Précédent
+10=Nouveau
+11=Lecture seule?
+12=Encrypter?
+13=Sauvegarder
+14=Re&charger
+15=Récupération de la &sauvegarde
+
+16=Page
+17=Cherche
+18=Cherche suivant (bas)
+19=Cherche précédent (haut)
+20=Page en mémoire
+21=Saut arrière
+22=Saut avant
+23=Favoris
+24=Assigner cette page
+25=Désactiver
+26=Protéger page?
+27=Entrée calendrier
+28=Fond du noeud
+29=Choisir couleur
+30=Réinitialiser couleur
+
+31=Exporter
+32=Page seule
+33=Noeud (structure)
+34=Tous
+35=Réimporter page
+
+36=Paramètres
+37=Police
+38=Texte
+39=Index
+40=Fond
+41=Texte (défaut)
+42=Index
+43=Les deux
+44=Barre d'outils?
+45=Index?  [Ctrl+Win]
+46=Touche rapide...
+47=Reduire dans la barre de tâche?
+48=Quitter si ESC?
+49=Réduire si ESC?
+50=Garder la fenêtre en avant plan?
+51=Pages &protégées par défaut?
+52=Sauvegarde auto? (toutes les $ min)
+53=Pas de sauvegardes?
+
+54=Aide
+55=Info
+04=Dossier des données
+171=Dossier du logiciel
+;56=Instance
+
+; ++ Index Menu ++
+
+57=Ajouter comme suivant
+58=Insérer avant
+59=Ajouter comme enfant
+60=Effacer
+61=Couper (pour déplacement)
+62=Renommer
+63=Obtenir le chemin de la page
+64=Déplacer vers le bas
+65=Déplacer vers le haut
+66=Vers le niveau parent
+67=Vers le niveau enfant
+68=Plier tout
+69=Déplier tout
+168=Trier les noeuds (enfants du noeud parent)
+169=ascendant
+170=descendant
+
+; ++ Text Menu ++
+
+70=Couper
+71=Copier
+72=Coller
+73=Marquer tout
+74=Majuscules
+75=Minuscules
+173=Espacement large
+76=Annuler
+77=Refaire
+78=Date,Heure
+79=Lien page
+80=Lien fichier...
+
+; ++ New button (4 alternatives, semicolon separated)
+
+81=Nouveau;Coller;Du fichier;Importer
+
+; ++ New/insert mode menu ++ 
+
+82=Nouvelle page
+83=Coller:
+84=Page à partir d'un fichier &texte
+85=Importer page, noeud
+
+; ++ Button ToolTips ++
+
+86=Selectionner mode insertion/source
+87=Ajouter comme suivant (clic droit: précédent)
+88=Ajouter comme enfant
+89=Couper page/noeud (pour insertion/ajout ailleurs)
+90=Pour déplacer $: selectionner la cible, puis insertion/ajout
+91=Effacer page/noeud
+92=Déplacer vers le haut
+93=Déplacer vers le bas
+94=Vers le niveau parent comme noeud suivant
+95=Vers le niveau enfant comme noeud précédent
+96=Rassembler les noeuds inutilisés (clic droit pour les déplier tous)
+97=Chercher
+98=Chercher suivant (clic droit: précédent)
+99=Renvoie automatique à la ligne
+
+; ++ Generic dialog box ++
+
+101=Erreur
+102=Alerte
+103=Info
+104=Ok
+105=Annuler
+
+; ++ Window: File group request ++
+
+106=Extension MemPad (type):
+107=Effacer les fichiers INI inutilisés
+
+; ++ Window: Encryption ++
+
+108=Compatible
+109=Mot de passe:
+110=Répéter:
+111=Encryptage est désactivé
+
+; ++ Dialog: Encryption, read/write ++
+
+112=Pas assez de mémoire
+113=Erreur de décryptage
+114=Note: si le fichier n'est pas crypté,
+115=vous avez probablement essayé de charger un fichier avec un format non valide.
+116=Ceci n'est pas un fichier MemPad valide
+117=L'encryptage a échoué
+118=
+
+; ++ Window Export ++
+
+119=Exporter vers:
+120=Style de titre (titre repéré par signe du Dollar)
+121=Symbole de niveaux (multiples)
+122=Ouvrir le fichier
+123=par extension
+124=avec le programme:
+
+; ++ Message: Diary ++
+
+125=Commencez par créer un noeud (page)
+
+; ++ Window: Search ++
+
+126=Maintenir ouvert
+127=Dans le texte
+128=Dans l'index
+129=Respect de la casse
+130=Mot entier
+131=Chercher:
+132=Réinitialiser
+133=Du début 
+134=Dans le noeud
+135=Bas
+136=Haut
+137=Remplacer
+138=Avec:
+139=Rechercher auto du suivant
+140=Aucun résultat (supplémentaire)
+
+; ++ Dialog: Files ++
+
+141=Sauvegarder le fichier
+142=Nom de fichier:
+143=Le fichier existe! Remplacer?
+144=Impossible de créer le fichier
+145=Impossible d'écrire dans le fichier
+146=
+147=Continuer sans sauvegarder?
+148=Ouvrir le fichier
+149=Sauvegarder les modifications?
+150=Logiciel
+
+; ++ Dialog: Backup ++
+
+151=Impossible de faire la sauvegarde
+152=Il n'y a pas de fichier de sauvegarde
+153=Ceci récupérera la dernière sauvegarde
+154=Impossible de récupérer la sauvegarde
+155=Effacer la sauvegarde également?
+
+; ++ Dialog: Reload ++
+
+156=Ceci rechargera toutes les pages du fichier
+157=Impossible de recharger le fichier
+
+; ++ Page Handling ++
+
+158=Cliquez sur le bouton [+] ou appuyez sur (Alt+Insert) pour créer une page
+159=Créer un lien vers un fichier
+160=Effacer ce noeud avec toutes ses pages enfants?
+161=Effacer cette page?
+162=Insérer un fichier texte
+163=Impossible de charger la page
+
+; ++ Window: Hotkey ++
+
+164=Combinaison de touches pour activater/réduire MemPad
+165=La touche "Retour arrière" désactive le raccourci
+166=Refusé
+
